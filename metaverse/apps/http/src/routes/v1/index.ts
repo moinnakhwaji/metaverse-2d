@@ -31,3 +31,5 @@ import { adminRouter } from "./admin";
  router.use("/user",userRouter)
   router.use("/space",spaceRouter)
  router.use("/admin",adminRouter)
+
+ 
