@@ -1,0 +1,1 @@
+export const JWT_PASSWORD = "moin@1234"
